@@ -8,7 +8,7 @@ A lightweight, command-line interface (CLI) tool for managing test cases, built 
 - [🔧 Usage](#-usage)
 - [📂 Project Structure](#-project-structure)
 - [🛠 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
+
 
 ## 🚀 Overview
 
